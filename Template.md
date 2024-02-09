@@ -18,7 +18,8 @@ Remember to include an Appendix or Footnote explaining confidence levels in your
 
 ### ♦️ Perspective
 This section describes and provides context of the threat(s) highlighted in the brief and how it relates to the bigger picture. Think of this section as framing -why this threat matters relative to your industry/business vertical/company/product. What you’ll want to highlight is evidence if this threat is or isn’t in line with what is being observed in the industry and the potential impact to your organization. 
-Gaps
+
+### ❤️‍🔥 Gaps
 The information we don't know and/or don’t have coverage to help make an assessment is traditionally categorized as known unknowns. List factors here that we are aware of, but we do not have available data or analysis to make an informed decision. In the context of threat intelligence analysis, known unknowns may include missing data points, gaps in knowledge about a specific threat actor or their methods, or an incomplete understanding of the context in which a threat is operating.
 
 ### ⼻ Recommendation and Next Steps 
