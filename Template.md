@@ -8,9 +8,12 @@ This section should provide readers with a Bottom Line Up Front (BLUF) of the pu
 
 ### 🔅 Confidence levels
 This section is included for context and should be deleted when writing the brief. Confidence levels are applied to assessments to help provide context on how strong or weak the assessment may be. The confidence levels are typically chosen based on the information used to make the assessments:  
-High Confidence: Your assessments are based on multiple sources, often corroborated that lead to sound judgments. A high confidence does not equate to complete accuracy, there is always some level of risk based on data, source, and methods used.
-Medium Confidence: Your assessments are based on multiple sources with some corroboration. If the data was of higher quality or corroborated it would lead to higher confidence.  
-Low Confidence: Your assessments are based on fragmented data or sources with varying degrees of fidelity. 
+
+***High Confidence***: Your assessments are based on multiple sources, often corroborated that lead to sound judgments. A high confidence does not equate to complete accuracy, there is always some level of risk based on data, source, and methods used.
+
+***Medium Confidence***: Your assessments are based on multiple sources with some corroboration. If the data was of higher quality or corroborated it would lead to higher confidence.  
+
+***Low Confidence***: Your assessments are based on fragmented data or sources with varying degrees of fidelity. 
 Remember to include an Appendix or Footnote explaining confidence levels in your document.
 
 ### ♦️ Perspective
