@@ -1,5 +1,5 @@
-# Threat-Intelligence- Analysis- Template
-Threat Intelligence analysis template
+# Threat-Intelligence-Analysis-Template
+
 🎉 **How to use this template**
 Building a threat intelligence program that is relevant, timely, actionable, and data-driven can be challenging. We have created two valuable templates for disseminating threat intel information to stakeholders. These templates include a detailed report and a short executive summary, both of which are essential for building a successful threat intelligence program.
 
